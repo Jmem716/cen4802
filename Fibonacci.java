@@ -26,7 +26,7 @@ public class Fibonacci {
 	    System.out.printf("The "+num+"%s term of the Fibonacci sequence is "+result+".\n",s1);
 
 	} 
-	
+	 
     /**
      * Receives an int as an argument which it uses to then add up using recursive function calling use.
      * 
